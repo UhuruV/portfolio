@@ -1,4 +1,7 @@
-h4{
+/** {
+    margin: 0; padding: 0;
+    }*/
+.name{
     font-family: 'Great Vibes', cursive;
     font-size: 40px;
     color: #fff;
@@ -61,7 +64,25 @@ header a{
     background-color:#d1b217 ;
     color: #fff;
 }
-@media only screen and (max-width:600px){
+ .h4{
+     margin-top: 80px;
+     font-size: 30px;
+     text-align: center;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+section{
+    display: block;
+}
+#about{
+    /*background-color: teal;*/
+    margin-left: 70px;
+    margin-top:150px;
+    background-position: absolute;
+    background-color: white;
+}
+
+/*@media only screen and (max-width:600px){
     .landing,.intro{
         width: 100%;
     }
@@ -94,7 +115,7 @@ header a{
     a{
         display: inline-block;
     }
-}
+}*/
 
 
 
