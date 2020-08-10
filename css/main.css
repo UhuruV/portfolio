@@ -12,6 +12,10 @@ header a{
     font-size: 20px;
     color: #f5c842;
 }
+h3{
+    color: #808080;
+    font-size: 28px;
+}
  .nav{
     width: 100%;
     height: 80px;
@@ -25,6 +29,13 @@ header a{
     height: 600px;
     opacity:1;
 }
+.intro_abt{
+    color: #fff;
+}
+h5{
+    color: #808080;
+    font-size: 18px;
+}
  
 .intro{
   margin:  auto;
@@ -32,9 +43,11 @@ header a{
   padding-top: 170px;
   text-align: left;
 }
+.grey{
+    color: #808080;
+}
 .intro p{
     font-size: 30px;
-    color: #fff;
     padding-top:0;
     text-align: left;
 }
